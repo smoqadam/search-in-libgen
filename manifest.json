@@ -10,7 +10,7 @@
                 "<all_urls>"
             ],
             "js": [
-                "src/cs/script.js"
+                "script.js"
             ]
         }
     ],
@@ -18,10 +18,10 @@
         "activeTab"
     ],
     "icons": {
-        "16": "assets/icons/icon-16.png",
-        "32": "assets/icons/icon-32.png"
+        "16": "icons/icon-16.png",
+        "32": "icons/icon-32.png"
     },
     "web_accessible_resources": [
-        "assets/icons/*"
+        "icons/*"
     ]
 }
